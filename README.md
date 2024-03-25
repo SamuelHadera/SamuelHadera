@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email; samyhadera1129@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Why is it always Fun fact but never Sad Fact
+- ⚡ Fun fact: Why is it always Fun fact but never Sad Fact?
 
 <!---
 SamuelHadera/SamuelHadera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
